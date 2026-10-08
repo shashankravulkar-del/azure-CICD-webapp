@@ -1,0 +1,6 @@
+{
+  "name": "Azure CI/CD Web Application",
+  "description": "Cloud DevOps Dashboard and complete end-to-end Microsoft Azure CI/CD pipeline project with Docker, ACR, Azure App Service, and Azure Pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
